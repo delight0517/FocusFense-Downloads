@@ -6,17 +6,15 @@ Official public Windows downloads for FocusFense.
 - [Verify the installer SHA-256](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Setup.exe.sha256)
 - [Portable ZIP](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Portable.zip) and [ZIP SHA-256](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Portable.zip.sha256)
 - [Release notes and setup help](https://github.com/delight0517/FocusFense-Downloads/releases/latest)
+- [FocusFense source code](https://github.com/delight0517/FocusFense-Source)
+- [License terms](https://github.com/delight0517/FocusFense-Source/blob/main/LICENSE)
 
-After installing, open FocusFense and follow the in-app setup. System-level
-protection may ask Windows for administrator approval. Browser extension
-installation and enforcement are browser-specific; check the browser status in
-the app before relying on a rule.
+## License
 
-The Windows app and installer are not signed with a publicly trusted code-signing
-certificate. Windows SmartScreen or Smart App Control may warn or block them.
-Verify the published SHA-256 checksum and download only from the official
-FocusFense release page. See [Microsoft's explanation of SmartScreen for app
-developers](https://learn.microsoft.com/windows/apps/package-and-deploy/smartscreen-reputation).
+The FocusFense project code is available under the PolyForm Noncommercial License 1.0.0. Noncommercial use, modification, and redistribution are allowed according to the license. Commercial use, commercial distribution, and commercial modifications require separate written permission from the relevant rights holders. This is source-available software with a noncommercial restriction, not OSI-approved open-source software. Third-party dependencies and browser-store components retain their own terms; see LICENSE and THIRD_PARTY_NOTICES.md.
 
-Only downloadable binaries and release material are published here. The
-development source repository remains private.
+## Install notes
+
+After installing, open FocusFense and follow the in-app setup. System-level protection may ask Windows for administrator approval. Browser extension installation and enforcement are browser-specific; check the browser status in the app before relying on a rule.
+
+The Windows app and installer are not signed with a publicly trusted code-signing certificate. Windows SmartScreen or Smart App Control may warn or block them. Verify the published SHA-256 checksum and download only from the official FocusFense release page. See [Microsoft's explanation of SmartScreen for app developers](https://learn.microsoft.com/windows/apps/package-and-deploy/smartscreen-reputation).
