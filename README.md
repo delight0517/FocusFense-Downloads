@@ -2,9 +2,9 @@
 
 Official public Windows downloads for FocusFense.
 
-- **[Download the Windows installer](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-1.0.0-572-Setup.exe)** — per-user installation, Korean/English setup, Start Menu shortcut, no administrator rights needed to install.
-- [Verify the installer SHA-256](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-1.0.0-572-Setup.exe.sha256)
-- [Portable ZIP](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-1.0.0-572-Portable.zip) and [ZIP SHA-256](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-1.0.0-572-Portable.zip.sha256)
+- **[Download the Windows installer](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Setup.exe)** — stable latest-release link, per-user installation, Korean/English setup, Start Menu shortcut, no administrator rights needed to install.
+- [Verify the installer SHA-256](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Setup.exe.sha256)
+- [Portable ZIP](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Portable.zip) and [ZIP SHA-256](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Portable.zip.sha256)
 - [Release notes and setup help](https://github.com/delight0517/FocusFense-Downloads/releases/latest)
 
 After installing, open FocusFense and follow the in-app setup. System-level
