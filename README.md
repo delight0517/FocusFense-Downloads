@@ -11,7 +11,7 @@ Official public Windows downloads for FocusFense.
 
 ## License
 
-The FocusFense project code is available under the PolyForm Noncommercial License 1.0.0. Noncommercial use, modification, and redistribution are allowed according to the license. Commercial use, commercial distribution, and commercial modifications require separate written permission from the relevant rights holders. This is source-available software with a noncommercial restriction, not OSI-approved open-source software. Third-party dependencies and browser-store components retain their own terms; see LICENSE and THIRD_PARTY_NOTICES.md.
+The FocusFense project code is available under the PolyForm Noncommercial License 1.0.0. Noncommercial use, modification, and redistribution are allowed according to the license. Use, modification, or distribution for a commercial purpose requires separate written permission from the relevant rights holders. PolyForm expressly permits use by charitable, educational, public research, public safety or health, environmental protection, and government institutions regardless of funding; consult the full license for its exact conditions. This is source-available software with a noncommercial restriction, not OSI-approved open-source software. Third-party dependencies and browser-store components retain their own terms; see LICENSE and THIRD_PARTY_NOTICES.md.
 
 ## Install notes
 
