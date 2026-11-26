@@ -7,7 +7,6 @@ Official public Windows & macOS downloads for FocusFense.
 - **[Download 3F Browser for macOS (Latest ZIP)](https://github.com/delight0517-art/3f-browser/releases/latest/download/3F-Browser-macOS.zip)** — standalone distraction-free macOS browser ([3F Browser source & releases](https://github.com/delight0517-art/3f-browser)).
 - **[Official Landing Website](https://delight0517.github.io/FocusFense-Downloads/)** — overview and direct download links.
 - **[Join Discord Community & Feedback](https://discord.gg/Ks78BjAhKK)** — share ideas (`#feedback-ideas`) or report bugs (`#bug-reports`).
-- **[Download legacy Windows installer (v1.0.0+572)](https://github.com/delight0517/FocusFense-Downloads/releases/download/windows-v1.0.0%2B572/FocusFense-Windows-Setup.exe)** — per-user installation, Korean/English setup, Start Menu shortcut.
 - [Release notes and setup help](https://github.com/delight0517/FocusFense-Downloads/releases/latest)
 - [FocusFence source code](https://github.com/delight0517/FocusFense-Source)
 - [License terms](https://github.com/delight0517/FocusFense-Source/blob/main/LICENSE)
