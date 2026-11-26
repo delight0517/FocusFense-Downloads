@@ -1,8 +1,10 @@
 # FocusFense downloads
 
-Official public Windows downloads for FocusFense.
+Official public Windows & macOS downloads for FocusFense.
 
 - **[Download FocusFence × Pomodoro v1.0.0+760 (Windows ZIP)](https://github.com/delight0517/FocusFense-Downloads/releases/download/windows-v1.0.0%2B760/FocusFence-Pomodoro-Windows-v1.0.0%2B760.zip)** — unified FocusFence + Pomodoro release with AI Router & 3F Browser plugins, one-click GitHub updater, Clean Reset Uninstaller, and FOR AI feedback.
+- **[Download Focus Fence for macOS v1.0.7+2026112602 (macOS ZIP)](https://github.com/delight0517-art/3f-browser/releases/download/mac-focus-fence-v1.0.7%2B2026112602/FocusFence-macOS-v1.0.7%2B2026112602.zip)** — native macOS Focus Fence with in-app 3F Browser one-click installer, 3F-only other-browser blocking, and `install.command` / `uninstall.command`. ([Release & SHA-256](https://github.com/delight0517-art/3f-browser/releases/tag/mac-focus-fence-v1.0.7%2B2026112602))
+- **[Download 3F Browser for macOS (Latest ZIP)](https://github.com/delight0517-art/3f-browser/releases/latest/download/3F-Browser-macOS.zip)** — standalone distraction-free macOS browser ([3F Browser source & releases](https://github.com/delight0517-art/3f-browser)).
 - **[Official Landing Website](https://delight0517.github.io/FocusFense-Downloads/)** — overview and direct download links.
 - **[Join Discord Community & Feedback](https://discord.gg/Ks78BjAhKK)** — share ideas (`#feedback-ideas`) or report bugs (`#bug-reports`).
 - **[Download legacy Windows installer (v1.0.0+572)](https://github.com/delight0517/FocusFense-Downloads/releases/download/windows-v1.0.0%2B572/FocusFense-Windows-Setup.exe)** — per-user installation, Korean/English setup, Start Menu shortcut.
@@ -16,6 +18,10 @@ The FocusFense project code is available under the PolyForm Noncommercial Licens
 
 ## Install notes
 
+### Windows
 After installing, open FocusFense and follow the in-app setup. System-level protection may ask Windows for administrator approval. Browser extension installation and enforcement are browser-specific; check the browser status in the app before relying on a rule.
 
 The Windows app and installer are not signed with a publicly trusted code-signing certificate. Windows SmartScreen or Smart App Control may warn or block them. Verify the published SHA-256 checksum and download only from the official FocusFense release page. See [Microsoft's explanation of SmartScreen for app developers](https://learn.microsoft.com/windows/apps/package-and-deploy/smartscreen-reputation).
+
+### macOS
+Unzip `FocusFence-macOS-v1.0.7+2026112602.zip` and double-click `install.command` (or run it in Terminal) to install `Focus Fence.app` to `/Applications` (and use `uninstall.command` to remove cleanly). Inside Focus Fence, you can install **3F Browser** in one click and enable **3F-only other-browser blocking** so other browsers stay blocked while 3F Browser is active.
