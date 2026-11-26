@@ -2,11 +2,12 @@
 
 Official public Windows downloads for FocusFense.
 
-- **[Download the Windows installer](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Setup.exe)** — stable latest-release link, per-user installation, Korean/English setup, Start Menu shortcut, no administrator rights needed to install.
-- [Verify the installer SHA-256](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Setup.exe.sha256)
-- [Portable ZIP](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Portable.zip) and [ZIP SHA-256](https://github.com/delight0517/FocusFense-Downloads/releases/latest/download/FocusFense-Windows-Portable.zip.sha256)
+- **[Download FocusFence × Pomodoro v1.0.0+760 (Windows ZIP)](https://github.com/delight0517/FocusFense-Downloads/releases/download/windows-v1.0.0%2B760/FocusFence-Pomodoro-Windows-v1.0.0%2B760.zip)** — unified FocusFence + Pomodoro release with AI Router & 3F Browser plugins, one-click GitHub updater, Clean Reset Uninstaller, and FOR AI feedback.
+- **[Official Landing Website](https://focusgate-landing.vercel.app)** — overview and direct download links.
+- **[Join Discord Community & Feedback](https://discord.gg/Ks78BjAhKK)** — share ideas (`#feedback-ideas`) or report bugs (`#bug-reports`).
+- **[Download legacy Windows installer (v1.0.0+572)](https://github.com/delight0517/FocusFense-Downloads/releases/download/windows-v1.0.0%2B572/FocusFense-Windows-Setup.exe)** — per-user installation, Korean/English setup, Start Menu shortcut.
 - [Release notes and setup help](https://github.com/delight0517/FocusFense-Downloads/releases/latest)
-- [FocusFense source code](https://github.com/delight0517/FocusFense-Source)
+- [FocusFence source code](https://github.com/delight0517/FocusFense-Source)
 - [License terms](https://github.com/delight0517/FocusFense-Source/blob/main/LICENSE)
 
 ## License
